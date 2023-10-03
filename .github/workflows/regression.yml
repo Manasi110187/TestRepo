@@ -22,4 +22,4 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - run: javac /java/InterviewPrep/MainStringOperations.java
+      - run: javac /Users/mtilwalli/git/repository/my-first-framework/src/main/java/InterviewPrep/MainStringOperations.java
